@@ -1,0 +1,8 @@
+{
+  "name": "@irakis/randomid-generator",
+  "version": "1.0.1",
+  "description": "id generator app",
+  "main": "index.js",
+  "author": "Ireneusz Wyszomirski <ireneuszwyszomirski44@gmail.com>",
+  "license": "MIT"
+}
